@@ -23,7 +23,7 @@ console.log(planetHasWater('mArs'))
 function sayWhatup(name){
     console.log('Hello ' + name + '! ')
 }
-0 
+
 sayWhatup('Wolfcub')
 
 
